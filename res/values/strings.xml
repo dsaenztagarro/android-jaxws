@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HidroconActivity!</string>
+    <string name="app_name">Hidrocon App</string>
+	<string name="route_tab">Recorridos</string>
+	<string name="building_tab">Fincas</string>
+	<string name="neighbour_tab">Vecinos</string>
+	<string name="loading_title">Por favor espere...</string>
+	<string name="loading_message">Recuperando datos...</string>	
+	
+</resources>
